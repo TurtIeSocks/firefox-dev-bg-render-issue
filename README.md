@@ -1,21 +1,5 @@
-# bun-react-tailwind-template
+# Minimum Reproduction of CSS Rendering Issue in Latest Firefox DE
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To start a development server:
-
-```bash
-bun dev
-```
-
-To run for production:
-
-```bash
-bun start
-```
-
-This project was created using `bun init` in bun v1.3.11. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+1. Install dependencies: `bun install`
+2. Start dev server: `bun run dev`
+3. Open `http://localhost:5173` in Firefox Developer Edition (150.0b4)
